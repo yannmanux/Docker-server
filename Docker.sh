@@ -20,7 +20,8 @@ then
 	exit 4
 fi
 
-leep 3s
+sleep 3
+
 
 #STEP 3 INSTALL DOCKER ENGINE
 
